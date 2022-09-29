@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2302"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Lock_Img.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2304"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="9.9610933"
+     inkscape:cx="71.176926"
+     inkscape:cy="33.881823"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2299" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3308"
+       style="fill:#000000;stroke-width:0.272161"
+       d="M 5.4999227 1.5001668 A 2.5 2.5 0 0 0 2.9998169 3.9997559 A 2.5 2.5 0 0 0 5.4999227 6.4998617 A 2.5 2.5 0 0 0 8.0000285 3.9997559 A 2.5 2.5 0 0 0 5.4999227 1.5001668 z M 5.4999227 2.5001058 A 1.5 1.5 0 0 1 7.0000895 3.9997559 A 1.5 1.5 0 0 1 5.4999227 5.4999227 A 1.5 1.5 0 0 1 3.9997559 3.9997559 A 1.5 1.5 0 0 1 5.4999227 2.5001058 z " />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect3254"
+       width="7"
+       height="7"
+       x="2"
+       y="4"
+       rx="1"
+       ry="1" />
+  </g>
+</svg>
